@@ -15,3 +15,4 @@ Algoritmo Nombre_edad
 		Escribir "No puedes salir del edificio"
 	Fin Si
 FinAlgoritmo
+Jose
