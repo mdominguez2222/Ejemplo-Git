@@ -16,3 +16,4 @@ Algoritmo Nombre_edad
 	Fin Si
 FinAlgoritmo
 Jose
+Nos vamos de fin de semana
