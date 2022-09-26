@@ -17,3 +17,4 @@ Algoritmo Nombre_edad
 FinAlgoritmo
 Jose
 Nos vamos de fin de semana
+Ejercicio para mañana
