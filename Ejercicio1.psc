@@ -18,3 +18,4 @@ FinAlgoritmo
 Jose
 Nos vamos de fin de semana
 Ejercicio para mañana
+clonar el repositorio y subir los cambios
